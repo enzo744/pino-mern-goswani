@@ -28,4 +28,6 @@ api/node_modules
 .env
 .client/.env
 .api/.env
+api/.env
+client/.env
 
